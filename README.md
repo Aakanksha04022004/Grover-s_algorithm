@@ -97,9 +97,13 @@ plt.title('Grover\'s Algorithm Results')
 plt.show()
 
 for n = 155
+
+
 ![download](https://github.com/Aakanksha04022004/Grover-s_algorithm/assets/146117000/4f43280d-4735-4172-936b-41cdce82c5f5)
 
 for n = 35
+
+
 ![download](https://github.com/Aakanksha04022004/Grover-s_algorithm/assets/146117000/432cd72e-d8b2-4509-a862-a9a726a2cff5)
 
 ## Circuit Visualization
